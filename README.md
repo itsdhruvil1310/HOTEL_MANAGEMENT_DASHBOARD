@@ -142,4 +142,4 @@ This dashboard helps hotel management:
 
 
 
-![image alt]
+![image alt](https://github.com/itsdhruvil1310/HOTEL_MANAGEMENT_DASHBOARD/blob/39dd6167f1655e5be67ab15b600fbdacbf687f34/HOTEL%20DASHBOARD.png)
